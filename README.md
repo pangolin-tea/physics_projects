@@ -1,4 +1,3 @@
 # Projects
 
-This project is meant to be an exercise in implementing physics calculations
-into a single package.
+This directory is meant to be a compilation of in the works projects, which may or may not get their own directory in the future.
